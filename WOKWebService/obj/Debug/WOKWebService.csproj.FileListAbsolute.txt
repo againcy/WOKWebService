@@ -1,0 +1,15 @@
+c:\users\zsf\documents\visual studio 2012\Projects\WOKWebService\WOKWebService\bin\Debug\WOKWebService.exe.config
+c:\users\zsf\documents\visual studio 2012\Projects\WOKWebService\WOKWebService\bin\Debug\WOKWebService.exe
+c:\users\zsf\documents\visual studio 2012\Projects\WOKWebService\WOKWebService\bin\Debug\WOKWebService.pdb
+c:\users\zsf\documents\visual studio 2012\Projects\WOKWebService\WOKWebService\obj\Debug\WOKWebService.csprojResolveAssemblyReference.cache
+c:\users\zsf\documents\visual studio 2012\Projects\WOKWebService\WOKWebService\obj\Debug\WOKWebService.exe
+c:\users\zsf\documents\visual studio 2012\Projects\WOKWebService\WOKWebService\obj\Debug\WOKWebService.pdb
+C:\Users\zhu\Documents\Visual Studio 2012\Projects\WOKWebService\WOKWebService\bin\Debug\WOKWebService.exe.config
+C:\Users\zhu\Documents\Visual Studio 2012\Projects\WOKWebService\WOKWebService\obj\Debug\WOKWebService.exe
+C:\Users\zhu\Documents\Visual Studio 2012\Projects\WOKWebService\WOKWebService\obj\Debug\WOKWebService.pdb
+C:\Users\LiuYibin\Documents\Visual Studio 2012\Projects\WOKWebService\WOKWebService\WOKWebService\bin\Debug\WOKWebService.exe.config
+C:\Users\LiuYibin\Documents\Visual Studio 2012\Projects\WOKWebService\WOKWebService\WOKWebService\obj\Debug\WOKWebService.exe
+C:\Users\LiuYibin\Documents\Visual Studio 2012\Projects\WOKWebService\WOKWebService\WOKWebService\obj\Debug\WOKWebService.pdb
+C:\Users\LiuYibin\Documents\Visual Studio 2012\Projects\WOKWebService\WOKWebService\WOKWebService\bin\Debug\WOKWebService.exe
+C:\Users\LiuYibin\Documents\Visual Studio 2012\Projects\WOKWebService\WOKWebService\WOKWebService\bin\Debug\WOKWebService.pdb
+C:\Users\LiuYibin\Documents\Visual Studio 2012\Projects\WOKWebService\WOKWebService\WOKWebService\obj\Debug\WOKWebService.csprojResolveAssemblyReference.cache
